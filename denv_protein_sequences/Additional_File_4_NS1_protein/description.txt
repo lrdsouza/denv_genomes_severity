@@ -1,0 +1,2 @@
+The file named "data" contains a list of sequences belonging to Dengue virus protein NS1 in csv format.
+Each row is a sample of the amino acid chain labeled according to dengue severity.
